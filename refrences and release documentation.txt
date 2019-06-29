@@ -1,0 +1,8 @@
+README 3:
+
+Official Documentations and other refrences
+1: https://docs.opencv.org/4.0.0/    : OpenCV 4.0 official documentation
+2: https://matplotlib.org/3.1.0/contents.html     : MATPLOTLIB 3.1 official documentaion
+3: https://pandas.pydata.org/pandas-docs/stable/    :Pandas official documentation
+4: https://docs.scipy.org/doc/      : Numpy and Scipy documentation
+5: http://cs229.stanford.edu/syllabus.html     :Andrew Ng Notes @ standford.edu
