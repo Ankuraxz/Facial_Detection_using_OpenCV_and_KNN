@@ -6,3 +6,4 @@ Official Documentations and other refrences
 3: https://pandas.pydata.org/pandas-docs/stable/    :Pandas official documentation
 4: https://docs.scipy.org/doc/      : Numpy and Scipy documentation
 5: http://cs229.stanford.edu/syllabus.html     :Andrew Ng Notes @ standford.edu
+6: https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
