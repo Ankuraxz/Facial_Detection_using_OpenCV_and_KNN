@@ -31,7 +31,7 @@ This project Takes your photo *_(ROI is passed after Detection by Haarcascade)_*
 
 ![picture alt](images/img5.png "Data collection and ROI extraction using Haarcascade ")
 
-![picture alt](images/img4.png "Results of test (Out of 5 clusters/classes)")
+![picture alt](images/img4.png "Results of test (Out of 5 clusters or classes)")
 
 
 
