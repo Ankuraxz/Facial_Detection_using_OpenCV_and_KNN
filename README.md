@@ -1,8 +1,13 @@
 # Facial_Detection_using_OpenCV_and_KNN
 This project Takes your photo *_(ROI is passed after Detection by Haarcascade)_*as data input where captured image is converted to a numpy array (3d-matrix) and is fed to the algo.. The Algo. forms various clusters based on photos of various people and when a test image is served, the algo. output the name of file that contains most compareable (similar) photos as of test image. In this case KNN is the classification algo, but SVM (With kernels), NN can also be used.
+## Frontal Face HaarCascade
 ![picture alt](images/img6.jpg "Frontal Face HaarCascade")
 
+## 3-D Cluster visualization
+
 ![picture alt](images/img1.png "3-D Cluster visualization")
+
+## Project Pipeline
 
 ![picture alt](images/img2.jpg "Project Pipeline")
 
